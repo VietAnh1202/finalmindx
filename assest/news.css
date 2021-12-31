@@ -21,7 +21,7 @@ header .nav{
     width: 100%;
     justify-content: space-between;
     align-items: center;
-    padding: 0px 100px;
+    padding: 10px 100px;
     transition: 0.6s;
     z-index: 1;
     background: #fff
@@ -87,7 +87,7 @@ header ul li a:hover {
 
 .main_btn {
     font-size: 15px;
-    background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+    background-color: blue;
     padding: 14px 32px;
     border: none;
     border-radius: 10px;
@@ -145,7 +145,7 @@ header ul li a:hover {
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/assest/img/The_Freehand_Broken_Shaker_139_JL1.webp");
+    url("https://www.hospitalitynet.org/picture/xxl_153131206.jpg?t=20210906094359");
     background-size: cover;
     position: relative;
     color: #fff;
@@ -157,7 +157,7 @@ header ul li a:hover {
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/assest/img/Airbnb-Enhanced-Clean-1_h-1.webp");
+    url("https://itcurated.com/hospitalitycurated/wp-content/uploads/sites/37/2020/09/cdc-VRpjDw3WqqI-unsplash.jpg");
 }
 
 .services_card:nth-child(3) {
@@ -166,7 +166,7 @@ header ul li a:hover {
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/assest/img/newsroomThumbnail.webp");
+    url("https://static01.nyt.com/images/2021/09/18/world/18afghanistan-howtohelp2/18afghanistan-howtohelp2-videoSixteenByNineJumbo1600.jpg");
 }
 
 .services_card:nth-child(4) {
@@ -175,7 +175,7 @@ header ul li a:hover {
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/assest/img/Newsroom_TrustSafety_004.webp");
+    url("https://www.marketplace.org/wp-content/uploads/2019/01/GettyImages-503944246_0.jpg?fit=1800%2C1000&resize=350%2C200#038;resize=350%2C200");
 }
 
 .services_card:nth-child(5) {
@@ -184,7 +184,7 @@ header ul li a:hover {
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/assest/img/PJM013418Q412-20181007_Airbnb_Mallorca_DRE_2234.webp");
+    url("https://blog.moonlighting.com/wp-content/uploads/2021/08/airbnb-final.jpg");
 }
 
 .services_card:nth-child(6) {
@@ -193,7 +193,7 @@ header ul li a:hover {
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/assest/img/Paralympics-post.webp");
+    url("https://www.paralympic.org/sites/default/files/styles/large_original/public/2020-05/stephen-miller-rio-getty.jpg?itok=yFdyQoP-");
 }
 
 .services h3 {
@@ -208,7 +208,7 @@ header ul li a:hover {
     border-radius: 10px;
     border: none;
     outline: none;
-    background: #f77062;
+    background: blue;
     position: absolute;
     top: 210px;
     right: 5px;
