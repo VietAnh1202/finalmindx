@@ -32,7 +32,7 @@ document.getElementById("close-modal-contact").onclick = function () {
 //Validate form contact
 
 document.getElementById("send-form-contact").onclick = function () {
-  //5-12 character letter or number
+  //3-50 character letter or number
   var checkName = /^[A-Za-z]{3,50}$/;
   var userID = document.getElementById("nameID").value;
   //Minimum eight characters, at least one letter, one number 
@@ -50,13 +50,6 @@ document.getElementById("send-form-contact").onclick = function () {
   }
       
 }
-
-// document.getElementById("cont").onclick = function() {
-//   document.querySelector(".contact").style.display = "flex";
-// }
-// document.getElementsByClassName("close0")[0].onclick = function() {
-//   document.querySelector(".contact").style.display = "none";
-// }
 
 var grid = document.getElementsByClassName("grid");
   grid[0].onclick = function() {
